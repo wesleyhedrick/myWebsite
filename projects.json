@@ -1,0 +1,44 @@
+[
+    {
+        "title":"project1",
+        "description":"It does cool stuff",
+        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg"
+
+    },
+    {
+        "title":"project2",
+        "description":"It does cool stuff",
+        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg"
+        
+    },
+    {
+        "title":"project3",
+        "description":"It does cool stuff",
+        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg"
+        
+    },
+    {
+        "title":"project4",
+        "description":"It does cool stuff",
+        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg"
+        
+    },
+    {
+        "title":"project5",
+        "description":"It does cool stuff",
+        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg"
+        
+    },
+    {
+        "title":"project6",
+        "description":"It does cool stuff",
+        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg"
+        
+    },
+    {
+        "title":"project7",
+        "description":"It does cool stuff",
+        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg"
+        
+    }
+]

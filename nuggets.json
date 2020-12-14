@@ -1,0 +1,13 @@
+[
+    "<a href=\"#\">Yup</a>. The # is a handy way to make a dead link look like a link when rendered.",
+"[class*=attribute]  is how you select all elements with a class containing the passed in word. ",
+"<meta> tag always has two attributes: name and content",
+"<link> has two attributes: rel and href",
+"favicon is the term for the little icon on the tab of a webpage",
+":nth-of-type(An+B) - allows you to choose elements starting from another element. nth-of-type(3n + 3) means 'pick every 3rd element after the 3rd element.'",
+"apple:only-of-type allows you to select all apples that are the only apples in their parent",
+"apple:last-of-type allows you to select all apples that are the last of their kind inside their parent.",
+"plate:empty allows you to select all plate elements that are empty",
+"apple:not(.small) allows you to select all apples except those with .small class",
+"[class^=ap] allows you to select all elements with classes that begin with \"ap\""
+]

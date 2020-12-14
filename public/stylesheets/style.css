@@ -1,0 +1,72 @@
+body {
+    /* padding: 50px; */
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    margin: 0;
+  }
+  
+  nav {
+      width: 100vw;
+      display: flex;
+      /* border: 1px solid black; */
+      background: linear-gradient(45deg, #43cea2, #185a9d);
+  }
+  
+  ul {
+      list-style: none;
+      display: flex;
+      width:  100%;
+      margin: 0;
+      padding: 0;
+  }
+  
+  li {
+      flex: 1;
+      border: 1px solid #4568dc;
+      height: 88px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: transparent;
+  }
+  
+  li:hover{
+      opacity: 0.5;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+  }
+
+
+  /* Portfolio styles */
+  .portfolio-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100vw;
+      flex-wrap: wrap;
+      
+
+  }
+  .project-card {
+      border: 1px solid black;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      width: 31%;
+      margin: 0.4em;
+      box-shadow: 1px 1px 1.4px 1px lightgrey;
+  }
+
+  .link-to-project-detail {
+
+  }
+
+  .project-image {
+
+  }
+
+  .project-summary {
+
+  }

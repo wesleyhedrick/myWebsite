@@ -1,0 +1,15 @@
+extends layout
+
+block content
+    .portfolio-container
+        a(href="/portfolio/"+previousButton)
+            button Previous
+        a(href="/portfolio/"+nextButton)
+            button Next
+        each project in projectSamples
+            .project-card
+                a.link-to-project-detail(href="*")= project.title
+                img.project-image(src=project.image, alt="")
+                p.project-summary=project.description
+
+

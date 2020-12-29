@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 let allProjects = require('../projects');
-let projectModels = require('../Models/projectsModels')
+let projectModels = require('../datamanipulation/projectsModels')
 
 /* GET Portfolio page. */
 router.get('/', function(req, res, next) {

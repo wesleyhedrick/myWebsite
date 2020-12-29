@@ -1,44 +1,62 @@
 [
     {
-        "title":"project1",
-        "description":"It does cool stuff",
-        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg"
+        "title":"Express App Generator",
+        "description":"This shell script scaffolds an express app for you, creating all the necessary directories, protecting sensitive files in .gitignore, installing all the necessary node modules, and setting up sequelize.",
+        "image":"/images/express-app-generator.png",
+        "appLink":"github.com"
 
     },
     {
-        "title":"project2",
-        "description":"It does cool stuff",
-        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg"
+        "title":"JavaScript Drumkit",
+        "description":"JavaScript, html audio tags, intervals come together more come together in this fun (or if your child discovers it, annoying) app. Press the keys on the screen and find your groove.",
+        "image":"https://github.com/wesleyhedrick/JavaScriptDrumKit",
+        "appLink":"https://wesleyhedrick.github.io/JavaScriptDrumKit/index-START.html"
+
+    },
+    {
+        "title":"JavaScript Clock",
+        "description":"Heavy doses of CSS and Javascript intervals make up this fully functioning, accurate, clock.",
+        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg",
+        "github":"https://github.com/wesleyhedrick/CSSClock",
+        "appLink":"https://wesleyhedrick.github.io/CSSClock/index-START.html"
+    },
+    {
+        "title":"Dine with the ISS",
+        "description":"Two apis (Google Maps API and ISS-Now) provide the data for this whimsical app that shows you what restaurant on earth is right now closest to the ISS.",
+        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg",
+        "github":"https://github.com/wesleyhedrick/Dining-With-The-ISS",
+        "appLink":"http://ec2-3-129-52-71.us-east-2.compute.amazonaws.com:3001/"
         
     },
     {
-        "title":"project3",
-        "description":"It does cool stuff",
-        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg"
+        "title":"Blackjack",
+        "description":"Heavy doses of CSS, JavaScript, and event listeners create the realistic colors and feel of this functioning blackjack game. ",
+        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg",
+        "github":"https://github.com/wesleyhedrick/Blackjack",
+        "appLink":"https://wesleyhedrick.github.io/Blackjack/playingCards.html"
         
     },
     {
-        "title":"project4",
-        "description":"It does cool stuff",
-        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg"
+        "title":"Unpressable Button",
+        "description":"Comprises a button that impishly avoids your mouse. Uses DOM offset properties and mousemove event listener to cause the button to avoid your mouse pointer.",
+        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg",
+        "github":"https://github.com/wesleyhedrick/Unpressable-Button",
+        "appLink":"https://wesleyhedrick.github.io/Unpressable-Button/unPressableButton.html"
         
     },
     {
-        "title":"project5",
-        "description":"It does cool stuff",
-        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg"
+        "title":"Display A Random Dog",
+        "description":"Uses dog.ceo api to generate random image of a dog based on breed that the user inputs. Uses jQuery and JavaScript.",
+        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg",
+        "github":"https://github.com/wesleyhedrick/Unpressable-Button",
+        "appLink":"https://wesleyhedrick.github.io/DisplaySingleRandomDog/displayrandom.html?"
         
     },
     {
-        "title":"project6",
-        "description":"It does cool stuff",
-        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg"
-        
-    },
-    {
-        "title":"project7",
-        "description":"It does cool stuff",
-        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg"
+        "title":"garbageTruckPanel",
+        "description":"This is a completely accurate garbage truck control panel. The main power switch sends or denies power to the whole system. The interactive elements accurately  emulate both momentary and maintained switches, dials, and indicators.",
+        "image":"https://i.pinimg.com/236x/fb/ea/fa/fbeafacbc934ea44c941e1eeb2469c19--siamese-cats-kitty-cats.jpg",
+        "github":"https://wesleyhedrick.github.io/garbageTruck//controlPanel.html"
         
     }
 ]

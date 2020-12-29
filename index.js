@@ -1,3 +1,4 @@
+require('dotenv');
 const createError = require('http-errors');
 const express = require('express');
 const path = require('path');
@@ -12,10 +13,19 @@ const portfolioRouter = require(routes +'portfolio');
 const nuggetsRouter = require(routes +'nuggets');
 const codeExegeteRouter = require(routes +'codeExegete');
 
+const {portfolio} = require('./models')
+
+portfolio.create({
+    title:'Blackjack',
+    description:'A working blackjack game',
+    image:'https://www.google.com',
+    link:'https://www.google.com'
+})
+
 const app = express();
 
 // view engine setup
-app.set('views', path.join(__dirname, 'views'));
+app.set('views', path.join(__dirname, 'templates'));
 app.set('view engine', 'pug');
 
 
